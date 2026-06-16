@@ -66,7 +66,7 @@ The dashboard is built using pharmacy inventory data containing:
 
 ## 📷 Dashboard Preview
 
-<img width="100%" src="Screenshots/phra.png" alt="Pharmacist Dashboard">
+<img width="100%" src="phra.png" alt="Pharmacist Dashboard">
 
 ---
 
